@@ -1,0 +1,13 @@
+{
+  "project_title": "Logistics Route Review",
+  "goal": "Summarize route efficiency and identify high-cost legs.",
+  "entity_name": "route_leg",
+  "amount_label": "distance_km",
+  "score_label": "efficiency_score",
+  "categories": [
+    "north",
+    "south",
+    "east",
+    "west"
+  ]
+}
